@@ -1,5 +1,6 @@
 name: null
 channels:
+- conda-forge
 - defaults
 dependencies:
 - python
@@ -8,4 +9,6 @@ dependencies:
 - matplotlib
 - seaborn
 - scikit-learn
-- jupyterlab
+- jupyter
+- geopandas
+- descartes
