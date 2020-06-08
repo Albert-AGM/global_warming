@@ -9,9 +9,7 @@ dependencies:
 - matplotlib
 - seaborn
 - scikit-learn
-<<<<<<< HEAD:conda_env.yml
-=======
 - jupyter
 - geopandas
 - descartes
->>>>>>> revision:environment.yml
+

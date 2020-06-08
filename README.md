@@ -24,6 +24,7 @@ Next, run the following commands:
 ```
 $ conda env create -f environment.yml
 $ conda activate global_warming
+$ unzip data_out/weather_stations.csv.zip
 ```
 Finally, start Jupyter:
 
