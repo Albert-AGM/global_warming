@@ -1,0 +1,17 @@
+name: global_warming
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+<<<<<<< HEAD:conda_env.yml
+=======
+- jupyter
+- geopandas
+- descartes
+>>>>>>> revision:environment.yml
