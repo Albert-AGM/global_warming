@@ -1,6 +1,6 @@
 # ANALYSIS OF TEMPERATURES IN SPAIN SINCE 1950
 
-This project analyze the temperatures in Spain in the last decades. With this objective we will apply data analysis and information visualization.
+This project analyzes the temperatures in Spain in the last decades. With this objective we will apply data analysis and information visualization.
 
 We will get the data from the AEMET OpenData API. You can check it on http://www.aemet.es/es/datos_abiertos/AEMET_OpenData, a website that provides weather data of meteorological stations located in different points of Spain.
 
