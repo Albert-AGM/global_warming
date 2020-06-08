@@ -1,4 +1,4 @@
-name: null
+name: global_warming
 channels:
 - conda-forge
 - defaults
